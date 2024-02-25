@@ -1,0 +1,2 @@
+# file for providing passwd less sudo access for docker user user
+user ALL=(ALL) NOPASSWD:ALL
