@@ -14,6 +14,11 @@ MIRROR="http://ftp.au.debian.org/debian/"
 
 DEBIAN_PACKAGES=" \
   linux-image-amd64 \
+  bash \
+  kmod \
+"
+DEBIAN_PACKAGES_BAK=" \
+  linux-image-amd64 \
   lsb-release \
   locales \
   sudo \
